@@ -15,8 +15,8 @@ public class CDPlayer implements MediaPlayer{
 
     //注解用在构造方法上
     @Autowired(required = false)
-    public CDPlayer(CompactDisc compactDisc) {
-        this.compactDisc = compactDisc;
+    public CDPlayer(CompactDisc cd) {
+        this.compactDisc = cd;
     }
 
 

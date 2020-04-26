@@ -12,7 +12,8 @@ import static org.junit.Assert.assertNotNull;
  * 测试类
  */
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration(classes = CDPlayerConfig.class)
+//@ContextConfiguration(classes = CDPlayerConfig.class)
+@ContextConfiguration(locations = {"classpath:/spring/*.xml"})
 public class CDPlayerTest {
 
     @Autowired
