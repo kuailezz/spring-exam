@@ -14,11 +14,11 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @ContextConfiguration(classes = AssemblyConfig.class)
 public class DessertTest {
 
-    private Dessert dessert;
-
     @Autowired
+    private MakeDessert makeDessert;
+
     @Test
-    public void setDessert(Dessert dessert){
-        this.dessert = dessert;
+    public void making(){
+        makeDessert.making();
     }
 }
