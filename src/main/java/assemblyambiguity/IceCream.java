@@ -1,7 +1,8 @@
 package assemblyambiguity;
 
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
-@Component
-public class IceCream implements Dessert{
-}
+//@Component
+//@Primary
+public class IceCream implements Dessert{}

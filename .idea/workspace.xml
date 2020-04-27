@@ -7,9 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45b2e9b5-ce39-4730-bbf1-dd42c3b32c7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/assemblyambiguity/MakeDessert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/assemblyambiguity/DessertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/assemblyambiguity/DessertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/assemblyambiguity/AssemblyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/assemblyambiguity/AssemblyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/assemblyambiguity/Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/assemblyambiguity/Cake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/assemblyambiguity/Cookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/assemblyambiguity/Cookies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/assemblyambiguity/IceCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/assemblyambiguity/IceCream.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,14 +25,15 @@
     <session id="804458830">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,7 +42,7 @@
           <entry key="gitignore" value="1" />
           <entry key="java" value="27" />
           <entry key="out)" value="8" />
-          <entry key="xml" value="10" />
+          <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -48,22 +51,22 @@
           <entry key="Git file" value="1" />
           <entry key="JAVA" value="27" />
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="XML" value="10" />
+          <entry key="XML" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="2916" />
-          <entry key="txt" value="30" />
-          <entry key="xml" value="752" />
+          <entry key="java" value="2959" />
+          <entry key="txt" value="36" />
+          <entry key="xml" value="776" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2916" />
-          <entry key="PLAIN_TEXT" value="31" />
-          <entry key="XML" value="752" />
+          <entry key="JAVA" value="2959" />
+          <entry key="PLAIN_TEXT" value="37" />
+          <entry key="XML" value="776" />
         </counts>
       </usages-collector>
     </session>
@@ -83,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/Cake.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -91,19 +94,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/Cookies.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/AssemblyConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="323">
+              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/DessertTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="323">
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#507#508#0" expanded="true" />
@@ -123,17 +128,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/MakeDessert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="285">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,17 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/IceCream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/soundSystem/CDPlayerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="114">
+              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -194,20 +186,21 @@
         <option value="$PROJECT_DIR$/src/main/java/soundSystem/MediaPlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/soundSystem/BlankDisc.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/knights.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring/appContext.xml" />
         <option value="$PROJECT_DIR$/src/main/java/soundSystem/CDPlayerConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/soundSystem/CDPlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/soundSystem/CDConfig.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/cdplayer-config.xml" />
         <option value="$PROJECT_DIR$/src/main/java/soundSystem/CDPlayerTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/connectConfig.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/assemblyambiguity/Cake.java" />
         <option value="$PROJECT_DIR$/src/main/java/assemblyambiguity/Dessert.java" />
-        <option value="$PROJECT_DIR$/src/main/java/assemblyambiguity/IceCream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/assemblyambiguity/Cookies.java" />
         <option value="$PROJECT_DIR$/src/main/java/assemblyambiguity/assemblyConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/assemblyambiguity/DessertTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/assemblyambiguity/MakeDessert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/assemblyambiguity/Cake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/assemblyambiguity/Cookies.java" />
+        <option value="$PROJECT_DIR$/src/main/java/assemblyambiguity/AssemblyConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/assemblyambiguity/IceCream.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/appContext.xml" />
       </list>
     </option>
   </component>
@@ -244,6 +237,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,18 +271,32 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="assemblyambiguity" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="springexam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springexam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springexam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springexam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587897024958" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587982064354" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -493,7 +501,8 @@
       <workItem from="1587604392782" duration="1232000" />
       <workItem from="1587692186733" duration="13829000" />
       <workItem from="1587882873226" duration="7592000" />
-      <workItem from="1587896657889" duration="360000" />
+      <workItem from="1587896657889" duration="402000" />
+      <workItem from="1587957225670" duration="1912000" />
     </task>
     <task id="LOCAL-00001" summary="ignore文件">
       <created>1587366490711</created>
@@ -530,28 +539,17 @@
       <option name="project" value="LOCAL" />
       <updated>1587896576754</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="spring装配歧义性">
+      <created>1587897040913</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587897040913</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CDPlayerTest_play - 2020.04.24 at 17h 58m 40s.xml">
-      <configuration name="CDPlayerTest.play" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CDPlayerTest_play - 2020.04.26 at 14h 56m 44s.xml">
-      <configuration name="CDPlayerTest.play" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CDPlayerTest_play - 2020.04.26 at 14h 59m 53s.xml">
-      <configuration name="CDPlayerTest.play" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CDPlayerTest_play - 2020.04.26 at 15h 01m 23s.xml">
-      <configuration name="CDPlayerTest.play" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CDPlayerTest_play - 2020.04.26 at 15h 02m 14s.xml">
-      <configuration name="CDPlayerTest.play" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CDPlayerTest_play - 2020.04.26 at 15h 08m 14s.xml">
-      <configuration name="CDPlayerTest.play" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CDPlayerTest_play - 2020.04.26 at 15h 10m 21s.xml">
       <configuration name="CDPlayerTest.play" configurationId="JUnit" />
     </history-entry>
@@ -564,15 +562,33 @@
     <history-entry file="DessertTest_making - 2020.04.26 at 18h 29m 59s.xml">
       <configuration name="DessertTest.making" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DessertTest_making - 2020.04.27 at 11h 14m 10s.xml">
+      <configuration name="DessertTest.making" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DessertTest_making - 2020.04.27 at 11h 20m 26s.xml">
+      <configuration name="DessertTest.making" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DessertTest_making - 2020.04.27 at 11h 25m 01s.xml">
+      <configuration name="DessertTest.making" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DessertTest_making - 2020.04.27 at 11h 32m 57s.xml">
+      <configuration name="DessertTest.making" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DessertTest_making - 2020.04.27 at 11h 33m 34s.xml">
+      <configuration name="DessertTest.making" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DessertTest_making - 2020.04.27 at 11h 34m 20s.xml">
+      <configuration name="DessertTest.making" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51260000" />
+    <option name="totallyTimeSpent" value="53214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -642,7 +658,8 @@
     <MESSAGE value="ignore文件" />
     <MESSAGE value="spring概述" />
     <MESSAGE value="springBean出识" />
-    <option name="LAST_COMMIT_MESSAGE" value="springBean出识" />
+    <MESSAGE value="spring装配歧义性" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring装配歧义性" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -748,10 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -766,13 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/appContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -794,9 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -838,37 +841,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/Cake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/Cookies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/AssemblyConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/IceCream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/soundSystem/CDPlayerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -879,10 +851,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/Cookies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/Cake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/MakeDessert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/IceCream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/DessertTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="323">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#507#508#0" expanded="true" />
@@ -891,16 +897,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/MakeDessert.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/appContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/assemblyambiguity/AssemblyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
           </folding>
         </state>
       </provider>
