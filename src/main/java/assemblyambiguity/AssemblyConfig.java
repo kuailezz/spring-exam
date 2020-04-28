@@ -12,9 +12,4 @@ import org.springframework.context.annotation.Primary;
 @ComponentScan
 public class AssemblyConfig {
 
-    @Bean
-    @Primary
-    public Dessert iceCream(){
-        return new IceCream();
-    }
 }
